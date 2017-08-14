@@ -1,0 +1,25 @@
+{
+  "name": "single",
+  "authors": [
+    "dreamjack <2644583921@qq.com>"
+  ],
+  "description": "angular js single",
+  "main": "",
+  "keywords": [
+    "angularjs"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    
+    
+  }
+}
